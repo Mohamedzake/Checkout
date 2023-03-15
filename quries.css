@@ -1,0 +1,14 @@
+@media (max-width: 48em) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  .all-imp {
+    grid-row: 1;
+  }
+  .count {
+    font-size: 1.4rem;
+  }
+  footer {
+    padding: 0rem 4.6rem 3.6rem 4.6rem;
+  }
+}
